@@ -1,7 +1,11 @@
+/**
+ * Solution by ARGutierrez
+ * 3/1/2014
+ */
+
 package C149E_Disemvoweler;
 
 import static java.util.Arrays.asList;
-
 import java.util.List;
 import java.util.Scanner;
 
